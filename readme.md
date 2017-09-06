@@ -20,6 +20,9 @@
 * :octocat: [AirBnb Style Guide][Airbnb-Style-guide]
 * :octocat: [React][react]
 
+
+* interesting JS articles
+* :book: [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)][moved-from-ang2]
 <!--
 * :book: [Closures and Scope][closures] (10 min)
 * :book: [`this` and that][this-and-that] (10 min)
@@ -35,3 +38,4 @@
 [higher-order]: https://medium.freecodecamp.org/higher-order-functions-in-javascript-d9101f9cf528
 [Airbnb-Style-guide]: https://github.com/airbnb/javascript
 [react]: https://github.com/facebook/react
+[moved-from-ang2]: https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163
