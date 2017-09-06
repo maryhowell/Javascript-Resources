@@ -1,4 +1,4 @@
-#JavaScript Fundamentals
+# JavaScript Fundamentals
 
 ---
 
