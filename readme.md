@@ -1,6 +1,6 @@
 # JavaScript Fundamentals
 
----
+
 
 ### Materials
 * Free Udemy Courses  
