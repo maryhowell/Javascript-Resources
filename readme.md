@@ -19,6 +19,7 @@
 * :octocat: [You Don't Know JS][You-Dont-Know-JS]
 * :octocat: [AirBnb Style Guide][Airbnb-Style-guide]
 * :octocat: [React][react]
+* :octocat: [Best-websites-a-programmer-should-visit][Best-websites-a-programmer-should-visit]
 
 
 #### interesting JS articles
@@ -39,3 +40,4 @@
 [Airbnb-Style-guide]: https://github.com/airbnb/javascript
 [react]: https://github.com/facebook/react
 [moved-from-ang2]: https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163
+[Best-websites-a-programmer-should-visit]: [https://github.com/sdmg15/Best-websites-a-programmer-should-visit]
