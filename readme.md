@@ -3,25 +3,25 @@
 
 
 ### Materials
-* Free Udemy Courses  
+#### Free Udemy Courses  
 * :movie_camera: [Javascript Essentials][Javascript-Essentials]
 * :movie_camera: [ES6 / EcmaScript 6 for beginners][es6-for-beginners]
 * :movie_camera: [npm - Mastering the Basics][npm-basics]
 * :movie_camera: [JS-Arcade Game][JS-Arcade]
 
-* Online readings
+#### Online readings
 * :book: [16 javascript concepts you must know well][16-javascript-concepts-you-must-know-well]
 * :book: [10 JS concepts for interviews][10-JS-Concepts-for-interviews]
 * :book: [Higher Order Functions][higher-order]
 
 
-* Important Github resources
+#### Important Github resources
 * :octocat: [You Don't Know JS][You-Dont-Know-JS]
 * :octocat: [AirBnb Style Guide][Airbnb-Style-guide]
 * :octocat: [React][react]
 
 
-* interesting JS articles
+#### interesting JS articles
 * :book: [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)][moved-from-ang2]
 <!--
 * :book: [Closures and Scope][closures] (10 min)
