@@ -13,6 +13,11 @@
 * :book: [16 javascript concepts you must know well][16-javascript-concepts-you-must-know-well]
 * :book: [10 JS concepts for interviews][10-JS-Concepts-for-interviews]
 * :book: [Higher Order Functions][higher-order]
+* :book: [Four part React tutorial with cart][learn-react]
+  * [part 1][part-1]
+  * [part 2][part-2]
+  * [part 3][part-3]
+  * [part 4][part-4]
 
 
 #### Important Github resources
@@ -45,3 +50,8 @@
 [moved-from-ang2]: https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163
 [best-websites-a-programmer-should-visit]: https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 [React-Koans]: https://github.com/arkency/reactjs_koans
+[learn-react]: https://www.codementor.io/learn-reactjs
+[part-1]: https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+[part-2]: https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js
+[part-3]: https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture
+[part-4]: https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux
