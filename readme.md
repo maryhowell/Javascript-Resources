@@ -38,6 +38,9 @@
 * :link: [Beginner Algorthims][beginner-algos]
 * :link: [Intermediate Algorithms][Intermediate-algos]
 
+#### JS interview questions
+* :link: [Javascript Interview Questions][JS-interview-questions]
+
 <!--
 * :book: [Closures and Scope][closures] (10 min)
 * :book: [`this` and that][this-and-that] (10 min)
@@ -64,3 +67,4 @@
 [Linked-list-problems]: https://www.thatjsdude.com/interview/linkedList.html
 [beginner-algos]: http://www.thatjsdude.com/interview/js1.html
 [Intermediate-algos]: http://www.thatjsdude.com/interview/js2.html
+[JS-interview-questions]: http://dev.fyicenter.com/Interview-Questions/JavaScript/What_are_JavaScript_types_.html
