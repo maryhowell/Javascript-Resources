@@ -32,6 +32,12 @@
 
 #### Fun React github links
 * :octocat: [React Koans][React-Koans]
+
+#### JS algorithm problems
+* :link: [Stack, Queue, Linked List Problems][Linked-list-problems]
+* :link: [Beginner Algorthims][beginner-algos]
+* :link: [Intermediate Algorithms][Intermediate-algos]
+
 <!--
 * :book: [Closures and Scope][closures] (10 min)
 * :book: [`this` and that][this-and-that] (10 min)
@@ -55,3 +61,6 @@
 [part-2]: https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js
 [part-3]: https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture
 [part-4]: https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux
+[Linked-list-problems]: https://www.thatjsdude.com/interview/linkedList.html
+[beginner-algos]: http://www.thatjsdude.com/interview/js1.html
+[Intermediate-algos]: http://www.thatjsdude.com/interview/js2.html
