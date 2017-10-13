@@ -32,6 +32,7 @@
 
 #### Fun React github links
 * :octocat: [React Koans][React-Koans]
+* :octocat: [Technical Interview Cheat Sheet][tech-interview-cheatsheet]
 
 #### JS algorithm problems
 * :link: [Stack, Queue, Linked List Problems][Linked-list-problems]
@@ -68,3 +69,4 @@
 [beginner-algos]: http://www.thatjsdude.com/interview/js1.html
 [Intermediate-algos]: http://www.thatjsdude.com/interview/js2.html
 [JS-interview-questions]: http://dev.fyicenter.com/Interview-Questions/JavaScript/What_are_JavaScript_types_.html
+[tech-interview-cheatsheet]: https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
