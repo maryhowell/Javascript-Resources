@@ -41,6 +41,7 @@
 
 #### JS interview questions
 * :link: [Javascript Interview Questions][JS-interview-questions]
+* :link: [Front-End Developer Interview Questions][frontend-interview-questions]
 
 <!--
 * :book: [Closures and Scope][closures] (10 min)
@@ -70,3 +71,4 @@
 [Intermediate-algos]: http://www.thatjsdude.com/interview/js2.html
 [JS-interview-questions]: http://dev.fyicenter.com/Interview-Questions/JavaScript/What_are_JavaScript_types_.html
 [tech-interview-cheatsheet]: https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
+[frontend-interview-questions]: http://www.thatjsdude.com/interview/
