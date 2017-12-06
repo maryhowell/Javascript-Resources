@@ -29,6 +29,7 @@
 
 #### interesting JS articles
 * :book: [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)][moved-from-ang2]
+* :book: [Is JS A Pass By Reference][is-js-a-pass-by-reference]
 
 #### Fun React github links
 * :octocat: [React Koans][React-Koans]
@@ -72,3 +73,4 @@
 [JS-interview-questions]: http://dev.fyicenter.com/Interview-Questions/JavaScript/What_are_JavaScript_types_.html
 [tech-interview-cheatsheet]: https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
 [frontend-interview-questions]: http://www.thatjsdude.com/interview/
+[is-js-a-pass-by-reference]: https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
