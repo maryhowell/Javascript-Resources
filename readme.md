@@ -43,6 +43,7 @@
 #### JS interview questions
 * :link: [Javascript Interview Questions][JS-interview-questions]
 * :link: [Front-End Developer Interview Questions][frontend-interview-questions]
+* :link: [The Definitive JavaScript Handbook for a developer interview][js-handbook-interview]
 
 <!--
 * :book: [Closures and Scope][closures] (10 min)
@@ -74,3 +75,4 @@
 [tech-interview-cheatsheet]: https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
 [frontend-interview-questions]: http://www.thatjsdude.com/interview/
 [is-js-a-pass-by-reference]: https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
+[js-handbook-interview]: https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e
