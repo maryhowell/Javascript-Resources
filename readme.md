@@ -34,6 +34,7 @@
 #### Fun React github links
 * :octocat: [React Koans][React-Koans]
 * :octocat: [Technical Interview Cheat Sheet][tech-interview-cheatsheet]
+* :link: [How to improve the performance of your React App][react-performance]
 
 #### JS algorithm problems
 * :link: [Stack, Queue, Linked List Problems][Linked-list-problems]
@@ -76,3 +77,4 @@
 [frontend-interview-questions]: http://www.thatjsdude.com/interview/
 [is-js-a-pass-by-reference]: https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
 [js-handbook-interview]: https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e
+[react-performance]: https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6
