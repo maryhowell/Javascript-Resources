@@ -18,6 +18,7 @@
   * [part 2][part-2]
   * [part 3][part-3]
   * [part 4][part-4]
+* :book: [Eloquent Javascript][eloquent-javascript]  
 
 
 #### Important Github resources
@@ -78,3 +79,4 @@
 [is-js-a-pass-by-reference]: https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
 [js-handbook-interview]: https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e
 [react-performance]: https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6
+[eloquent-javascript]: http://eloquentjavascript.net/
