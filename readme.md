@@ -50,10 +50,14 @@
 #### Performance Testing in React
 * :link: [Debugging React Performance][react-preformance-chrome]
 * :link: [Component Performance in React][performance-react]
+
+#### CSS in JS Articles
+* :link: [Modular-CSS][modular-css]
 <!--
 * :book: [Closures and Scope][closures] (10 min)
 * :book: [`this` and that][this-and-that] (10 min)
 * :book: [ES6 Arrow Functions][fat-arrows] (15 min) -->
+[modular-css]:https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e
 [performance-react]:https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc
 [react-preformance-chrome]:https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad
 [Javascript-Essentials]: https://www.udemy.com/javascript-essentials/
