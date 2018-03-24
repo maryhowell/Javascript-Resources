@@ -31,6 +31,7 @@
 #### interesting JS articles
 * :book: [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)][moved-from-ang2]
 * :book: [Is JS A Pass By Reference][is-js-a-pass-by-reference]
+* :movie_camera: [TED talks in programming][ted-program]
 
 #### Fun React github links
 * :octocat: [React Koans][React-Koans]
@@ -58,6 +59,7 @@
 * :book: [Closures and Scope][closures] (10 min)
 * :book: [`this` and that][this-and-that] (10 min)
 * :book: [ES6 Arrow Functions][fat-arrows] (15 min) -->
+[ted-program]: https://www.makeuseof.com/tag/ted-talks-programming/
 [css-in-js-library]: https://gist.github.com/troch/c27c6a8cc47b76755d848c6d1204fdaf
 [modular-css]:https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e
 [performance-react]:https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc
