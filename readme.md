@@ -55,10 +55,12 @@
 #### CSS in JS Articles
 * :link: [Modular-CSS][modular-css]
 * :link: [Choosing a CSS in JS Library][css-in-js-library]
+* :link: [CSS Quirks][css-quirk]
 <!--
 * :book: [Closures and Scope][closures] (10 min)
 * :book: [`this` and that][this-and-that] (10 min)
 * :book: [ES6 Arrow Functions][fat-arrows] (15 min) -->
+[css-quirk]: https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb
 [ted-program]: https://www.makeuseof.com/tag/ted-talks-programming/
 [css-in-js-library]: https://gist.github.com/troch/c27c6a8cc47b76755d848c6d1204fdaf
 [modular-css]:https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e
