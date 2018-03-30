@@ -32,6 +32,7 @@
 * :book: [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)][moved-from-ang2]
 * :book: [Is JS A Pass By Reference][is-js-a-pass-by-reference]
 * :movie_camera: [TED talks in programming][ted-program]
+* :link: [The Cost of JavaScript][cost-of-js]
 
 #### Fun React github links
 * :octocat: [React Koans][React-Koans]
@@ -61,6 +62,7 @@
 * :book: [Closures and Scope][closures] (10 min)
 * :book: [`this` and that][this-and-that] (10 min)
 * :book: [ES6 Arrow Functions][fat-arrows] (15 min) -->
+[cost-of-js]: https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
 [single-failure]: https://blog.hichroma.com/why-design-systems-are-a-single-point-of-failure-ec9d30c107c2
 [css-quirk]: https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb
 [ted-program]: https://www.makeuseof.com/tag/ted-talks-programming/
