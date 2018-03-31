@@ -48,6 +48,7 @@
 * :link: [Javascript Interview Questions][JS-interview-questions]
 * :link: [Front-End Developer Interview Questions][frontend-interview-questions]
 * :link: [The Definitive JavaScript Handbook for a developer interview][js-handbook-interview]
+* :link: [10 Interview questions every JS dev should know][10-js-questions]
 
 #### Performance Testing in React
 * :link: [Debugging React Performance][react-preformance-chrome]
@@ -62,6 +63,7 @@
 * :book: [Closures and Scope][closures] (10 min)
 * :book: [`this` and that][this-and-that] (10 min)
 * :book: [ES6 Arrow Functions][fat-arrows] (15 min) -->
+[10-js-questions]: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 [cost-of-js]: https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
 [single-failure]: https://blog.hichroma.com/why-design-systems-are-a-single-point-of-failure-ec9d30c107c2
 [css-quirk]: https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb
