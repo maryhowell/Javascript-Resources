@@ -38,6 +38,7 @@
 * :octocat: [React Koans][React-Koans]
 * :octocat: [Technical Interview Cheat Sheet][tech-interview-cheatsheet]
 * :link: [How to improve the performance of your React App][react-performance]
+* :octocat: [10 Cool React Libraries][react-libraries]
 
 #### JS algorithm problems
 * :link: [Stack, Queue, Linked List Problems][Linked-list-problems]
@@ -63,6 +64,7 @@
 * :book: [Closures and Scope][closures] (10 min)
 * :book: [`this` and that][this-and-that] (10 min)
 * :book: [ES6 Arrow Functions][fat-arrows] (15 min) -->
+[react-libraries]: https://hackernoon.com/top-10-react-libraries-on-github-ebf730e7ac25
 [10-js-questions]: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 [cost-of-js]: https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
 [single-failure]: https://blog.hichroma.com/why-design-systems-are-a-single-point-of-failure-ec9d30c107c2
