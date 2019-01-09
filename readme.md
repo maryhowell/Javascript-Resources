@@ -55,11 +55,17 @@
 * :link: [Debugging React Performance][react-preformance-chrome]
 * :link: [Component Performance in React][performance-react]
 
+#### React/Redux Interview Resources
+* :link: [React Redux Interview Questions][react-redux-interview-questions]
+
 #### CSS in JS Articles
 * :link: [Modular-CSS][modular-css]
 * :link: [Choosing a CSS in JS Library][css-in-js-library]
 * :link: [CSS Quirks][css-quirk]
 * :link: [Why design systems are a single point of failure][single-failure]
+
+#### Tech Talks
+* ::movie_camera: [Tech talks that'll change how you think][talks-change-how-you-think]
 <!--
 * :book: [Closures and Scope][closures] (10 min)
 * :book: [`this` and that][this-and-that] (10 min)
@@ -102,3 +108,5 @@
 [js-handbook-interview]: https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e
 [react-performance]: https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6
 [eloquent-javascript]: http://eloquentjavascript.net/
+[react-redux-interview-questions]: https://medium.com/@sepineda/react-redux-interview-questions-b7f6611823f
+[talks-change-how-you-think]: https://monicalent.com/blog/2019/01/01/favorite-programming-talks/
